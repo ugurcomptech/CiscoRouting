@@ -39,9 +39,6 @@ Merkez'deki router, uzak birimlere hizmet vermek ve ağı genişletmek amacıyla
 
 Bu ağ haritası, örnek bir şirketin iç ve dış ağlarını yönlendiren router'ların bağlantılarını tanımlamaktadır. İç bağlantılar, şirket içi ağ ile ilgilidir ve iş verilerinin düzgün bir şekilde iletilmesini sağlar. Dış bağlantılar, şirketin internet erişimini temsil eder.
 
-Bu belge, şirket ağ altyapısını daha iyi anlamamıza yardımcı olacak ve sorunları giderirken daha etkili bir yönetim sağlayacaktır.
-
-Eğer daha fazla bilgi veya ağ haritası ile ilgili ek ayrıntıya ihtiyacınız varsa, lütfen bizimle iletişime geçmekten çekinmeyin. Şirketinizin ağ altyapısını güçlü ve güvenli bir şekilde sürdürmekte size yardımcı olmaktan memnuniyet duyarız.
 
 
 ## Resim
